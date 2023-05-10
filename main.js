@@ -223,6 +223,7 @@ saveBtn.addEventListener('click', e => {
             width: 25px;
             height: 25px;
             box-sizing: border-box;
+            border: 0px solid black !important;
         }
         </style>`
         // console.log(output);
